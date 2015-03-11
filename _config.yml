@@ -1,0 +1,35 @@
+url: http://byustephen.github.io
+baseurl: /home/
+
+# Site settings
+title: Mountain Fresh Media
+email: sgodfrey@mountainfreshmedia.com
+description: "Communication, Hard Work, and Results. Now that's refreshing."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+#709AD0
+  primary: 709AD0
+  secondary: 386EB4
+  secondary-dark: 333
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+#social:
+#  - title: twitter
+#    url: http://twitter.com/jekyllrb
+#  - title: facebook
+#    url:
+#  - title: stack-overflow
+#    url: http://stackoverflow.com/questions/tagged/jekyll
+#  - title: github
+#    url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 787 W 320 N
+  - line: Lindon, UT
+
+# Build settings
+markdown: kramdown
+permalink: pretty

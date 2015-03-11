@@ -1,0 +1,15 @@
+---
+title: VBA.net
+subtitle: Automating Excel tasks
+layout: default
+modal-id: 6
+date: 2014-07-15
+img: excel_logo.png
+thumbnail: Excel-360x260.png
+alt: image-alt
+project-date: March 2014
+client: Middlebury Interactive Languages
+category: vba.net scripting
+description: Created a custom script to assist accounting. Used vba to repair errors on an excel sheet. Also changed formatting and output a csv. This saved their reporting team 5 hours of work per month. 
+
+---

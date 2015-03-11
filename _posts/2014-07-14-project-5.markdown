@@ -1,0 +1,15 @@
+---
+title: Automated Reporting Tool
+subtitle: Workload reducer
+layout: default
+modal-id: 5
+date: 2013-11-10
+img: startup-framework.png
+thumbnail: Cogs360x260.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development - PHP, MySQL, and Linux
+description: The support team for an education company would manually run reports, attach them, and email them to the schools. We built an automated reporting tool to do the task for them, and saved 200 people hours per year. This increased the effectiveness of the support team, and gave the schools greater transparency. 
+
+---
